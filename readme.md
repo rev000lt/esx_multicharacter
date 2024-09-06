@@ -3,7 +3,7 @@
 A Simplistic system, that allows Players to have multiple Characters, which can be customised for all player with `Config.Slots` or personally set a players character count using `setslots`, `remslots`, `enablechar` and `disablechar` Commands :)
 
 # SHOWCASE -> https://youtu.be/qvczYYq37xY
-# CX DISCORD -> https://discord.gg/7HyHhGMkgv
+# OUTLAW DISCORD -> https://discord.gg/8m9KdwPHub
 
 ## Notes
 
